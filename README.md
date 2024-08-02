@@ -16,7 +16,6 @@ Follow these steps to set up and run the project on your local machine:
 
 ```shell
 git clone https://github.com/badalk121/ProDigi.git
-cd ProDigi
 ```
 
 ### 2. Install Dependencies
@@ -25,13 +24,7 @@ Navigate to the client and server directories and install the required dependenc
 
 ```shell
 # Install server dependencies
-cd server
-npm install
-```
-
-```shell
-# Install client dependencies
-cd ../client
+cd ProDigi
 npm install
 ```
 
